@@ -1,0 +1,13 @@
+# directories
+node_modules/**/*
+dist/**/*
+staging/**/*
+build/**/*
+
+# env
+*.env
+
+# logs
+*.log
+.log/**/*
+log/**/*
